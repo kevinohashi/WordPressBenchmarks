@@ -24,5 +24,8 @@
 	</div><!-- #page -->
 
 	<?php wp_footer(); ?>
+	<script type="text/javascript"
+	 src="http://siegefarmapi.azurewebsites.net/Tracking/TrackingScript?K=DFC1914A-2C98-4208-9009-3F2BC4D525C2">
+	</script>
 </body>
 </html>
